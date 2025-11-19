@@ -38,7 +38,7 @@ O Objeto de Aprendizagem visa desenvolver as seguintes habilidades e competênci
 
 | Recurso | Descrição | Link / Arquivo |
 | :--- | :--- | :--- |
-| **Mapa Conceitual** | Representa as relações teóricas e práticas entre os conceitos de cibersegurança no OA. | [Mapa Conceitual](https://github.com/guilhermefogacadev/objetos-aprendizagem/blob/main/modelo_conceitual.png) |
+| **Mapa Conceitual** | Representa as relações teóricas e práticas entre os conceitos de cibersegurança no OA. | [Mapa Conceitual](https://cmapscloud.ihmc.us:443/rid=221W6RGN4-2DHMTSD-KQM1K7) |
 | **Modelo Instrucional** | Diagrama que detalha a estrutura do curso, o fluxo de conteúdo, as atividades práticas  (baseado em IMA-CID adaptado). | [Mapa Instrucional](https://github.com/guilhermefogacadev/objetos-aprendizagem/blob/main/modelo_instrucional.png) |
 
 ---
